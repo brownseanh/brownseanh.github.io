@@ -5,6 +5,7 @@
 
 ## Midterm Adventure Game
 <img width="1239" alt="Screen Shot 2022-10-31 at 7 57 18 PM" src="https://user-images.githubusercontent.com/117126750/199136078-335a35df-b9b9-420c-9693-3fa0764ff681.png">
+
 #### This game is called “Jim Goes to the Supermarket”. You play as the titular family man Jim, and he needs to rush to the store to buy a cake because it is his daughter Callie’s birthday. He tried cooking a cake himself, but let’s just say it did not go so well. 
 #### The game consists of a branching narrative structure that presents the player with a variety of scenarios that they can choose to eventually acquire the cake, which is the main goal of the game.
 #### UML Diagrams:
