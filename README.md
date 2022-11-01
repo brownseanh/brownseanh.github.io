@@ -22,4 +22,14 @@
 #### UML Diagrams:
 <img width="331" alt="Screen Shot 2022-10-31 at 8 17 17 PM" src="https://user-images.githubusercontent.com/117126750/199137803-ddbf8820-4a63-49d2-a2a3-affbd30ef4bd.png">
 
-## 
+## YTFiguringOutClasses
+#### I was having trouble early on in Programming 101, so I found some YouTube tutorials to help me, and this was one of the projets I made while following along with those videos to help me wrap my brain around the concept of classes.
+#### UML Diagrams:
+<img width="739" alt="Screen Shot 2022-10-31 at 8 22 14 PM" src="https://user-images.githubusercontent.com/117126750/199138265-06b5c759-7556-4dd5-ab39-223b12ac9a17.png">
+
+## YTtutorialYourFirstProject
+#### This was the first program I made while following along with the videos discussed above in YTFiguringOutClasses. It was to get me comfortable with different variable types, constants, and the basic workings of Visual Studio.
+#### UML Diagrams:
+<img width="336" alt="Screen Shot 2022-10-31 at 8 26 21 PM" src="https://user-images.githubusercontent.com/117126750/199138634-e1acd0a3-a704-4ada-8c5f-0ae76326280d.png">
+
+###### Thanks for looking at my projects!
