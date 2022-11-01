@@ -17,4 +17,9 @@
 #### UML Diagrams:
 <img width="738" alt="Screen Shot 2022-10-31 at 8 10 38 PM" src="https://user-images.githubusercontent.com/117126750/199137187-4c9e2460-4f7d-4443-adb2-56247bce3338.png">
 
+## Tip Calculator
+#### This is a simple program that asks the user to input how much their bill was and what percentage they would like to tip. It then calculates the total amount they should pay.
+#### UML Diagrams:
+<img width="331" alt="Screen Shot 2022-10-31 at 8 17 17 PM" src="https://user-images.githubusercontent.com/117126750/199137803-ddbf8820-4a63-49d2-a2a3-affbd30ef4bd.png">
+
 ## 
