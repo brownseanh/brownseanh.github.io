@@ -1,4 +1,4 @@
-#Sean's Portfolio
+# Sean's Portfolio
 ### This is a personal work repository for my code and programming projects
 
 ## Projects
