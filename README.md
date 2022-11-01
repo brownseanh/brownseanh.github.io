@@ -14,4 +14,7 @@
 
 ## Dogon Pot
 #### This program was used to learn about recursion, which is used here to write out instructions of how to draw a dogon pot.
-#### 
+#### UML Diagrams:
+<img width="738" alt="Screen Shot 2022-10-31 at 8 10 38 PM" src="https://user-images.githubusercontent.com/117126750/199137187-4c9e2460-4f7d-4443-adb2-56247bce3338.png">
+
+## 
