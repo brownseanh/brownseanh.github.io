@@ -1,5 +1,6 @@
 # Sean's Portfolio
 #### This is a personal work repository for my code and programming projects.
+#### View my [GitHub profile](https://github.com/brownseanh).
 
 ## Projects
 
